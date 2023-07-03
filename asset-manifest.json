@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RENT-SELL/static/css/main.345a1084.css",
+    "main.js": "/RENT-SELL/static/js/main.c62a20e0.js",
+    "static/media/about.jpg": "/RENT-SELL/static/media/about.56e92b20e762df2fa5de.jpg",
+    "static/media/pricing.jpg": "/RENT-SELL/static/media/pricing.4552ccf3b91e93029513.jpg",
+    "static/media/services.jpg": "/RENT-SELL/static/media/services.13be7fde05782bd5e2e8.jpg",
+    "static/media/banner.png": "/RENT-SELL/static/media/banner.1a3c8a0a448e8e24f6a0.png",
+    "index.html": "/RENT-SELL/index.html",
+    "main.345a1084.css.map": "/RENT-SELL/static/css/main.345a1084.css.map",
+    "main.c62a20e0.js.map": "/RENT-SELL/static/js/main.c62a20e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.345a1084.css",
+    "static/js/main.c62a20e0.js"
+  ]
+}
